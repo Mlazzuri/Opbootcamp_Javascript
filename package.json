@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto en javascript con node en openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "mensaje": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproyect"
+  ],
+  "author": "Mariano Lazzuri",
+  "license": "ISC"
+}
